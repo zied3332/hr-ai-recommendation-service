@@ -1,0 +1,24 @@
+# Python env
+venv/
+venvvenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Installed libs (VERY IMPORTANT)
+torch/
+transformers/
+uvicorn/
+pydantic/
+fastapi/
+install/
+
+# Env
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
