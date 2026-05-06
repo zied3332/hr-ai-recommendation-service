@@ -4,6 +4,9 @@ An intelligent AI-powered service for analyzing HR activities and matching candi
 
 ## Overview
 
+This project was developed as part of the 4TWIN – Engineering Program at **Esprit School of Engineering** (Academic Year 2025–2026).
+It is a full-stack web application designed to help HR, managers, and employees manage profiles, activities, recommendations, and team collaboration efficiently.
+
 The HR AI Recommendation Service is designed to:
 
 - **Analyze Activities**: Classify HR activities (training, certifications, projects, etc.) by scenario and domain
@@ -313,6 +316,19 @@ pip install --upgrade transformers torch
 - [ ] Integration with external HR systems
 - [ ] WebSocket support for real-time updates
 - [ ] Multi-language support
+
+## Contributors
+
+- Ahlem Bounasri
+- Yasmine ben abdelali
+- Malek Fridhi
+- Zied Alimi
+- Mohamed Nour Slimi
+
+## Academic Context
+
+Developed at **Esprit School of Engineering – Tunisia**  
+4TWIN | 2025–2026
 
 ## License
 
